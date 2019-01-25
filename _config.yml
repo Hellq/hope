@@ -12,6 +12,12 @@ author: 清歌
 language: zh-Hans
 date_format: '%Y-%m-%d'
 
+# title
+links_title: QQ业务网站
+# links
+links:
+  http://hopet.dsvip6.cn
+
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com' and baseurl as '/child'
 url:
