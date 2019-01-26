@@ -4,7 +4,7 @@
 # ---------------------------------------------------------------
 
 # Site
-title: Anchoret 初见
+title: Anchoret 清歌的博客
 subtitle: See You First Time
 description: 逢君一笑，人间无此欢喜
 author: 清歌
@@ -77,7 +77,7 @@ plugins:
 favicon: /assets/favicon.ico
 
 # Set default keywords (Use a comma to separate)
-keywords: "Jekyll, NexT"
+keywords: "Jekyil, NexT"
 
 # Set rss to false to disable feed link.
 # Leave rss as empty to use site's feed link.
@@ -283,8 +283,9 @@ sidebar:
 #links_layout: inline
 #links:
   #Title: http://example.com/
-links_title: 推荐阅读
+links_title: 推荐浏览
 links:
+  清歌的代刷网: http://hopet.dsvip6.cn
   阮一峰的网络日志: http://www.ruanyifeng.com/blog/archives.html
   R的极客理想系列: http://blog.fens.me/series-r/
   谢益辉: https://yihui.name/
