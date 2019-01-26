@@ -18,15 +18,6 @@ url:
 baseurl:
 permalink: pretty
 
-# title
-16
-links_title: Links
-17
-links:
-18
-  猫咪接口: https://www.906rr.com/enter/android.html
-
-
 # Pagination
 paginate: 10
 #paginate_path: "/page:num/"
@@ -517,7 +508,7 @@ busuanzi_count:
 
 
 # Enable baidu push so that the blog will push the url to baidu automatically which is very helpful for SEO
-baidu_push: true
+baidu_push: false
 
 # Google Calendar
 # Share your recent schedule to others via calendar page
